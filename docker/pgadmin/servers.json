@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Filehub Local",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "filehub",
+      "Username": "filehub",
+      "SSLMode": "prefer"
+    }
+  }
+}
